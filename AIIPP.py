@@ -2,6 +2,9 @@ import pyttsx3 as sp
 import speech_recognition as sr
 import cv2
 import threading
+import requests
+from bs4 import BeautifulSoup
+import csv
 
 
 
